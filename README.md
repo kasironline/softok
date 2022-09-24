@@ -1,3 +1,2 @@
-# softok
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/11ty-tadcfq)
+Develope by
+[https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas)
